@@ -18,3 +18,17 @@ git add болон git commit ашиглах
 Өөрчлөлтийг GitHub руу git push ашиглан илгээх
 
 GitHub дээрх шинэ өөрчлөлтийг git pull ашиглан татах
+Энэхүү лабораторийн ажлыг хийсний дараа оюутан дараах чадваруудыг эзэмшинэ.
+
+1. GitHub repository-г локаль компьютерт clone хийх
+2. Локаль repository дээр файл еерчлех
+3. git add 6onoH git commit aшиrnaх
+4. Өерчлелтуудийг GitHub руy git push ашиглан илгээх
+5. GitHub дээрх шинэ еерчлелтийг git pull ашиглан татах
+
+## 4. Хэрэглэх программ хангамж
+Git
+
+Git Bash
+GitHub account
+Интернэт холболт
